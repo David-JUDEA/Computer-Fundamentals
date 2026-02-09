@@ -1,0 +1,12 @@
+body {
+  scroll-behavior: smooth;
+}
+
+#about img {
+  border: 1px solid #ffffff;
+}
+
+#projects .card:hover {
+  transform: translateY(-5px);
+  transition: 0.3s;
+}
