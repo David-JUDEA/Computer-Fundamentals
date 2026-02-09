@@ -1,3 +1,5 @@
+![Banner](https://files.catbox.moe/hm16sf.svg)
+
 # Computer-Fundamentals
 
 ## Project Showcase - David JUDEA
