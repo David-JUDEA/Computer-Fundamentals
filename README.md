@@ -2,7 +2,7 @@
 
 # Computer-Fundamentals
 
-## Project Showcase - David JUDEA
+### Project Showcase - David JUDEA
 
 This repository gathers the key projects developed during my training, covering Web Development, System Administration, and Algorithmic logic.
 
